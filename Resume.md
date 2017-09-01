@@ -56,3 +56,10 @@
 - Shinyo-en Foundation, _Summer Fellow_  | 2013
 - Yesler Community Center, _Volunteer_  | 2005- 2011
 
+## Skills
+- Skilled analyst with a passion for identifying trends in complex systems 
+-	Anticipate clients needs to provide outstanding direct and indirect customer service
+-	Establish clear lines of communication to ensure successful project completion
+-	Ability to maintain composure in high-stress situations by prioritizing tasks efficiently
+-	Identify problem areas to resolve underlying issues rather than the symptoms 
+
