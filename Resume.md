@@ -12,11 +12,11 @@
 ## Experience
 **Neighborcare Health** | _Interim Clinic Administrator I_ | Feb. 2017-July 2017
 -	Ensure Boren clinic opens and closes on-time 
--Supervise safety of staff and patients by monitoring flow of waiting room
+- Supervise safety of staff and patients by monitoring flow of waiting room
 - Manage staff payroll
 -	Coordinate and maintain staff NextGen schedules
 -	Maintain partner relationships with different agencies housed within Boren Clinic
--Facilitate patient care coordination with clinic partners
+- Facilitate patient care coordination with clinic partners
 -	Submit and approve invoices
 -	Manage clinic budget
 -	Order, stock, and organize office and janitorial supplies
@@ -63,3 +63,6 @@
 -	Ability to maintain composure in high-stress situations by prioritizing tasks efficiently
 -	Identify problem areas to resolve underlying issues rather than the symptoms 
 
+#### Languages
+- Tigrinya | _fluent_
+- ASL | _beginner_
