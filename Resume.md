@@ -26,13 +26,13 @@
 - Provide administrative support to all of Neighborcare’s homeless programs
 - Provide administrative support to all of Neighborcare’s homeless programs
 - Establish, organize and maintain files and records
-- Partner with facilities management in purchasing, supervision and scheduling of routine building/ office equipment and repair/ -maintenance
+- Partner with facilities management in purchasing, supervision and scheduling of routine building/ office equipment and repair/maintenance
 - Coordinate and maintain staff schedules 
 - Register staff for conferences and continuing education trainings
 - Coordinate travel and lodging for conferences
 - Facilitate volunteers during Youth Clinic
 - Order and organize medical and office supplies
-- Mange budget tracking, invoice submission, invoice requests and credit card reconciliation
+- Manage budget tracking, invoice submission, invoice requests and credit card reconciliation
 
 
 **Neighborcare Health** | _Community Health Worker_ | Nov. 2014-Sep 2015 
@@ -49,3 +49,5 @@
 -	Managed inventory by accurately measuring business needs
 -	Conducted new hire customer service training 
 -	Organized employee schedules to minimize scheduling errors 
+
+## Community Engagement
