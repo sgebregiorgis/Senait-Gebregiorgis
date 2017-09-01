@@ -51,3 +51,8 @@
 -	Organized employee schedules to minimize scheduling errors 
 
 ## Community Engagement
+- Seattle University Youth Initiative, _Advisory Board Member_  | 2011- 2016
+- Seattle University, _Strengthening Families Program Facilitator & Interpreter_  | 2014
+- Shinyo-en Foundation, _Summer Fellow_  | 2013
+- Yesler Community Center, _Volunteer_  | 2005- 2011
+
