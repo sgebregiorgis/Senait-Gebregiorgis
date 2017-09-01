@@ -13,7 +13,7 @@
 **Neighborcare Health** | _Interim Clinic Administrator I_ | Feb. 2017-July 2017
 -	Ensure Boren clinic opens and closes on-time 
 -Supervise safety of staff and patients by monitoring flow of waiting room
--Manage staff payroll
+- Manage staff payroll
 -	Coordinate and maintain staff NextGen schedules
 -	Maintain partner relationships with different agencies housed within Boren Clinic
 -Facilitate patient care coordination with clinic partners
@@ -42,3 +42,10 @@
 -	Plan and execute community events
 -	Serve as Tigrinya interpreter for Yesler Residents
 -	Partner with SHA, City of Seattle, and the Parks dept. to develop meaningful and sustainable health and community-oriented programs for Yesler Terrace Residents. 
+
+**Jamba Juice** | _Team Lead_ | Feb. 2004-May 2010
+-	Monitored cash management policies throughout scheduled shifts
+-	Completed daily deposits, balanced registers, and cash fund
+-	Managed inventory by accurately measuring business needs
+-	Conducted new hire customer service training 
+-	Organized employee schedules to minimize scheduling errors 
