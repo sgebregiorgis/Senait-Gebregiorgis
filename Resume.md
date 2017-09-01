@@ -1,7 +1,7 @@
 # Senait Gebregiorgis 
 ##### 206.850.0659 | [sgebregiorgis@gmail.com](sgebregiorgis@gmail.com)
 ## Education
-##### Alber's Business School of Business and Economics, Seattle Univeristy | 2011-2013
+##### Alber's Business School of Business and Economics, Seattle University | 2011-2013
 
 ###### *Bachelor of Arts Economics*
 
@@ -58,7 +58,7 @@
 
 ## Skills
 - Skilled analyst with a passion for identifying trends in complex systems 
--	Anticipate clients needs to provide outstanding direct and indirect customer service
+-	Anticipate client's needs to provide outstanding direct and indirect customer service
 -	Establish clear lines of communication to ensure successful project completion
 -	Ability to maintain composure in high-stress situations by prioritizing tasks efficiently
 -	Identify problem areas to resolve underlying issues rather than the symptoms 
